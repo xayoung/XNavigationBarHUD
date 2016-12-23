@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.homepage     = 'http://www.xayoung.cn'
     s.license      = 'MIT'
     s.authors      = {'xayoung' => 'xayoung01@gmail.com'}
-    s.platform     = :ios, ‘7.0’
+    s.platform     = :ios, '7.0'
     s.source       = {:git => 'https://github.com/xayoung/XNavigationBarHUD.git', :tag => s.version}
     s.source_files = 'XNavigationBarHUD/*.{h,m}'
     s.resource     = 'XNavigationBarHUD/XNavigationBarHUD.bundle'
